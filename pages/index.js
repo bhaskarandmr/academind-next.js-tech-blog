@@ -34,7 +34,7 @@ export default function Home({posts, events}) {
         <h1 className="text-center pb-5">Dinamalar.com</h1>
         <div className="row">
           <div className="col-lg-8">
-            <h2 className="pb-3">தற்போதைய செய்த</h2>
+            <h2 className="pb-3">தற்போதைய செய்தி</h2>
             {jsxPosts}
           </div>
           <div className="col-lg-4">
